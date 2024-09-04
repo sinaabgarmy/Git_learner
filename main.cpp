@@ -16,6 +16,12 @@ for(int i;i<10;i++){
 cout<<a;
 
 }
+int a=10;
+int b=20;
+
+if (a>b){
+cout<"sandwitch";
+}
 
 return 0;
 }
