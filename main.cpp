@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -22,6 +23,16 @@ int b=20;
 if (a>b){
 cout<"sandwitch";
 }
+
+int sina=24;
+int nima=24;
+
+if (sina>nima){
+
+cout<<"Im his bigger brother";
+
+}
+
 
 return 0;
 }
